@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1699007284 source:d:\project\pr2 oala oleg\main.cpp
+	<iostream>
+
+1700216375 source:c:\users\ooale\onedrive\Рабочий стол\tacau lucrari c++\pr1oalaoleg\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+
